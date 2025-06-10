@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "John Muiruri"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/chuotech_logo.png"
   bio    : "Web developer, designer, digital marketing specialist and writer."
   links:
     - label: "Website"
