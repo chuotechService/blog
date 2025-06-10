@@ -2,6 +2,7 @@
 title: "8 Proven Digital Marketing Strategies for Schools"
 date: 2025-03-11
 categories: School digital marketing
+classes: wide
 tags: school_marketing, digital_marketing, digital_strategy,
 ---
 
