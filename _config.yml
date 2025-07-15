@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CHUOTECH BLOG
+title: Chuotech Services Blog
 email: hello@chuotech.co.ke
 description: >- # this means to ignore newlines until "baseurl:"
-  blog, chuotech, digital marketing tips and articles for schools & teachers
+  Marketing tips and insights for schools and educators
 twitter_username: username
 github_username: chuotechService
 minimal_mistakes_skin: dirt
