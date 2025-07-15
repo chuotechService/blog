@@ -56,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "John Muiruri"
+  name   : "John Mukundi"
   avatar : "/assets/images/chuotech_logo.png"
-  bio    : "Web developer, designer, digital marketing specialist and writer."
+  bio    : "Web designer, online marketing specialist, & blogger"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
